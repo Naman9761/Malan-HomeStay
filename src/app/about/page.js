@@ -8,7 +8,7 @@ export default function About() {
 
     return (
         <>
-            <Breadcrumb img="/slider3.jpg" pageName="about us" />
+            <Breadcrumb img="/slide3.jpg" pageName="about us" />
             <AboutContent />
         </>
     )
