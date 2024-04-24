@@ -1,5 +1,4 @@
 "use client";
-import { Logo } from "../../../public/logo.png";
 import { useState, useEffect } from "react";
 import {
   Navbar,
