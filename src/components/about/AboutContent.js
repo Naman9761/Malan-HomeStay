@@ -54,7 +54,7 @@ function AboutContent() {
                 </div>
                 <div className="grid grid-cols-1 lg:grid-cols-2 wow animate__animated animate__lightSpeedInLeft"  style={{ backgroundColor: '#f3f3f3' }}>
                     <div className="relative h-[35rem]">
-                        <Image alt="hotel photo" src="/slider3.jpg" width={1366} height={768} className="absolute inset-0 h-full w-full object-cover" />
+                        <Image alt="hotel photo" src="/slide3.jpg" width={1366} height={768} className="absolute inset-0 h-full w-full object-cover" />
                     </div>
                     <div className="py-20 lg:pt-18 xl:px-16">
                         <article className="text-justify space-y-4 px-5 lg:px-10">
